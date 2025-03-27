@@ -1,12 +1,9 @@
 import React from 'react'
-import SideBar from '../Components/SideBar'
 
-const Contract = () => {
+const Contracts = () => {
   return (
-    <SideBar>
-    <div>Contract</div>
-    </SideBar>
+    <div>Contracts</div>
   )
 }
 
-export default Contract
+export default Contracts
